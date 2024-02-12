@@ -1,11 +1,13 @@
 {
   "dependencies": {
+    "scs": "0.0.1",
     "momnet": "2.29.1",
     "ua-parser-js": "0.7.29"
   },
   "description": "SCS Examples to be cautious of... and protected by Checkmarx for...",
   "devDependencies": {
     "async": "^2.0.0-rc.4",
+    "js-yaml": "3.6.1",
     "grunt": "^1.0.1"
   },
   "main": "server.js",
