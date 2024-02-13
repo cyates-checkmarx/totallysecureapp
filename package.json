@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "lodash": "4.17.11",
+    "handlebars": "4.7.9",
     "scs": "0.0.1",
     "flow-dev-tools": "99.10.9",
     "momnet": "2.29.1"
